@@ -8,6 +8,7 @@ added fourth
 
 added fifth
 
+narrow
 added sixth
 
 added eighth
